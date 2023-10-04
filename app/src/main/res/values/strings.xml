@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">TKEA</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_filter_idea">Idea</string>
+    <string name="title_search_store">Store</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_basket">Basket</string>
 </resources>
