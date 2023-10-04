@@ -8,21 +8,21 @@
 
     <item
         android:id="@+id/navigation_filter_idea"
-        android:icon="@drawable/ic_search_black"
+        android:icon="@drawable/ic_search_idea_black_24"
         android:title="@string/title_filter_idea" />
 
     <item
         android:id="@+id/navigation_search_store"
-        android:icon="@drawable/ic_store_black"
+        android:icon="@drawable/ic_store_black_24"
         android:title="@string/title_search_store" />
 
     <item
         android:id="@+id/navigation_favorite"
-        android:icon="@drawable/ic_favorite_black"
+        android:icon="@drawable/ic_favorite_black_24"
         android:title="@string/title_favorite" />
 
     <item
         android:id="@+id/navigation_basket"
-        android:icon="@drawable/ic_basket_black"
+        android:icon="@drawable/ic_basket_black_24"
         android:title="@string/title_basket" />
 </menu>

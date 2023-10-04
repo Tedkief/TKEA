@@ -5,4 +5,9 @@
     <string name="title_search_store">Store</string>
     <string name="title_favorite">Favorite</string>
     <string name="title_basket">Basket</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+
+    <string name="title_home_1">Trouvez des idées</string>
+    <string name="title_home_2">Exporez, inspirez-vous et faites vos achats par pièce.</string>
 </resources>
